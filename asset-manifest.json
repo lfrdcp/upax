@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/upax/static/css/main.1d70858a.chunk.css",
+    "main.js": "/upax/static/js/main.a15281f2.chunk.js",
+    "main.js.map": "/upax/static/js/main.a15281f2.chunk.js.map",
+    "runtime-main.js": "/upax/static/js/runtime-main.2f9bffba.js",
+    "runtime-main.js.map": "/upax/static/js/runtime-main.2f9bffba.js.map",
+    "static/js/2.e85806dd.chunk.js": "/upax/static/js/2.e85806dd.chunk.js",
+    "static/js/2.e85806dd.chunk.js.map": "/upax/static/js/2.e85806dd.chunk.js.map",
+    "index.html": "/upax/index.html",
+    "static/css/main.1d70858a.chunk.css.map": "/upax/static/css/main.1d70858a.chunk.css.map",
+    "static/js/2.e85806dd.chunk.js.LICENSE.txt": "/upax/static/js/2.e85806dd.chunk.js.LICENSE.txt",
+    "static/media/logo.795bd3db.png": "/upax/static/media/logo.795bd3db.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f9bffba.js",
+    "static/js/2.e85806dd.chunk.js",
+    "static/css/main.1d70858a.chunk.css",
+    "static/js/main.a15281f2.chunk.js"
+  ]
+}
