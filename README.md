@@ -2,7 +2,6 @@
 
 <p align="center"><img src="https://upax.com.mx/wp-content/uploads/2020/09/LogoUPAX.png" width="400"></p>
 
-
 ## Acerca del proyecto
 
 -El proyecto consiste en validación de rutas, un login sencillo, mostrar empleados en una tabla, buscar, y  dar de alta, así mismo arrastrar y soltar imagenes, para posteriormente visualizarlas.
@@ -46,3 +45,10 @@ El proyecto contiene las siguientes tecnologías
 | Material-UI Pickers | [Material-UI PickersI](https://material-ui-pickers.dev/) |
 | React Hook Form | [React Hook Form](https://react-hook-form.com/) |
 | React Redux | [React Redux](https://react-redux.js.org/) |
+
+## Capturas del proyecto
+![image](https://user-images.githubusercontent.com/59978326/138993841-d27c1842-efee-4127-a767-a8f6d14c5ea8.png)
+
+![image](https://user-images.githubusercontent.com/59978326/138993845-c9ce7326-41cb-417d-88f2-aba04c6d3453.png)
+
+![image](https://user-images.githubusercontent.com/59978326/138993853-6b157d02-5394-4222-8572-03978ed2b40e.png)
